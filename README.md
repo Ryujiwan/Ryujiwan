@@ -13,9 +13,6 @@
 4. 푸쉬하기
 
 [영남이공대학교](http://ync.ac.kr)
-
-![다운로드](https://github.com/Ryujiwan/Ryujiwan/assets/144292975/49e7c600-d9d2-474a-9863-7dd10f4c59df)
-
 <!--
 **Ryujiwan/Ryujiwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
